@@ -15,7 +15,7 @@ const Contact = () => {
           <span className='font-mono text-green-300 text-lg'>astharai572@gmail.com</span>
         </p>
         <p className='text-xs font-mono mt-2'>Looking forward to connecting!</p>
-        <div className="lg:hidden flex gap-8 justify-center items-center m-4 w-[100%] text-gray-400">
+        <div className="lg:hidden flex gap-8 justify-center items-center mt-8 w-[100%] text-gray-400">
           <a href="https://github.com/astha114">
             <FiGithub className="scale-150" />
           </a>

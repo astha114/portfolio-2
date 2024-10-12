@@ -25,7 +25,7 @@ const Projects = () => {
               </div>
               <div className="absolute w-[60%] lg:h-[100%] bg-[#0a192f] opacity-70 hover:opacity-20"></div>
               <div className="flex-col lg:w-[40%]">
-                <p className="flex lg:justify-end text-2xl font-bold text-slate-300">
+                <p className="flex lg:justify-end text-2xl mt-8 font-bold text-slate-300">
                   Food App
                 </p>
                 <div className="lg:absolute left-[40%]  text-slate-400 mt-4 lg:w-[60%] ">
